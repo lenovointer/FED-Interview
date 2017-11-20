@@ -1782,12 +1782,4 @@ css3使用
 - sticky 生成粘性定位的元素，容器的位置根据正常文档流计算得出
 
 
-## Donate
-
- if you enjoy my works please consider making a donation,help me to write better articles.
-
-<img src="./alipay.jpeg" width = "350" height = "500" alt="图片名称" align=left />
-
-<img src="./wechat.jpeg" width = "350" height = "500" alt="图片名称" align=right />
-
 <br />
