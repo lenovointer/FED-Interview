@@ -9,5 +9,5 @@
 - 从基础到工程化，从工程到框架类库，以及各种套路问答
 - Include:webpack,es6,git,spa,vue,react,promise,generator,xss,csrf...
 
-[GitHub](https://github.com/hawx1993/Front-end-Interview-Questions)
+[GitHub](https://github.com/lenovointer/FED-Interview)
 [Get Started](#interview-quesetions)

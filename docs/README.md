@@ -455,8 +455,6 @@ react组件更新过程：
 
 vue.js 采用数据劫持的方式，结合发布者-订阅者模式，通过`Object.defineProperty()`来劫持各个属性的setter，getter以监听属性的变动，在数据变动时发布消息给订阅者，触发相应的监听回调：
 
-https://github.com/hawx1993/tech-blog/issues/11
-
 #### vue 虚拟DOM和react 虚拟DOM的区别
 
 在渲染过程中，会跟踪每一个组件的依赖关系，不需要重新渲染整个组件树。而对于React而言，每当应用的状态被改变时，全部子组件都会重新渲染。
@@ -1691,7 +1689,6 @@ display: -webkit-box;
 -webkit-box-pack: center;
 ```
 
->for detail: https://github.com/hawx1993/tech-blog/issues/12
 
 #### 实现左边定宽右边自适应效果
 

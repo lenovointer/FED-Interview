@@ -1,6 +1,6 @@
 ## Links   
 
->click to visit : https://github.com/lenovointer/FED-Interview
+>click to visit :  http://lenovointer.github.io/FED-Interview
 
 ## Contributing
 
